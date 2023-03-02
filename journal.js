@@ -4,4 +4,4 @@ function logActivity(date, activity) {
 	console.log(msg);
 }
 
-logActivity('2023/03/01','Practiced lots of string loops today');
+logActivity('2023/03/02','Learnt plenty of string loops and functions today! Also learnt how to write pseudo code');
